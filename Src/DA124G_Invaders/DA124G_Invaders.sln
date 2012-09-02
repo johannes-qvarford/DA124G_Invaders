@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DA124G_Invaders", "DA124G_Invaders\DA124G_Invaders.vcxproj", "{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Install|Win32 = Install|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}.Debug|Win32.Build.0 = Debug|Win32
+		{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}.Install|Win32.ActiveCfg = Install|Win32
+		{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}.Install|Win32.Build.0 = Install|Win32
+		{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}.Release|Win32.ActiveCfg = Release|Win32
+		{7AD365C3-FC8B-41D4-9A44-96CDDA49FDF1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
